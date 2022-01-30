@@ -317,7 +317,7 @@ var canvas = document.querySelector("#scene"),
   particles = [],
   amount = 0,
   mouse = {x:0,y:0},
-  radius = 1;
+  radius = 2;
 
 var colors = ["#e60033","#e6e200", "#00e62a","#008ee6", "#8600e6"];
 
